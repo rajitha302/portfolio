@@ -19,13 +19,15 @@
 
 /* line 15, assests/scss/_tabs.scss */
 .tab-active {
-  color: #196aff; }
+  color: #196aff;
+  font-weight: bolder;
+  font-size: 18px; }
 
-/* line 19, assests/scss/_tabs.scss */
+/* line 21, assests/scss/_tabs.scss */
 .content {
   display: none; }
 
-/* line 23, assests/scss/_tabs.scss */
+/* line 25, assests/scss/_tabs.scss */
 .content-active {
   display: block; }
 
