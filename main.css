@@ -3,6 +3,16 @@
 * {
   font-family: 'Roboto', sans-serif; }
 
+/* line 2, assests/scss/_button.scss */
+.dropdown-menu .insta_b {
+  color: #e61d2e; }
+/* line 5, assests/scss/_button.scss */
+.dropdown-menu .tweet_b {
+  color: #27a6e0; }
+/* line 8, assests/scss/_button.scss */
+.dropdown-menu .git_b {
+  color: black; }
+
 /* line 1, assests/scss/_tabs.scss */
 .tabs-bar {
   width: 100%;
@@ -30,5 +40,9 @@
 /* line 25, assests/scss/_tabs.scss */
 .content-active {
   display: block; }
+
+/* line 1, assests/scss/_header.scss */
+.header {
+  margin: 5rem 0rem 5rem 3rem; }
 
 /*# sourceMappingURL=main.css.map */
