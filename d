@@ -44,7 +44,7 @@
     </ul>
 
     <div class="content-container mt-5">
-      <section class="content content-tab1 content-active">
+      <a class="content content-tab1 content-active">
         <div class="gallery-container">
           <div class="tz-gallery">
             <div class="row mb-3">
@@ -102,40 +102,8 @@
           </div>
 
         </div>
-      </section>
-          <section class="content content-tab2">
-              <div class="gallery-container">
-                <div class="tz-gallery">
-                  <div class="row mb-3">
-                    <div class="col-md-4">
-                      <div class="card">
-                        <a class="lightbox" href="./images/port_f.png">
-                          <img src="./images/port_f.png" alt="Park" class="card-img-top">
-                        </a>
-                      </div>
-                    </div>
-      
-                    <div class="col-md-4">
-                      <div class="card">
-                        <a class="lightbox" href="./images/dribbble_shot.png">
-                          <img src="./images/dribbble_shot.png" alt="Park" class="card-img-top">
-                        </a>
-                      </div>
-                    </div>
-      
-                    <div class="col-md-4">
-                      <div class="card">
-                        <a class="lightbox" href="./images/detective_2x.png">
-                          <img src="./images/detective_2x.png" alt="Park" class="card-img-top">
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-      
-                </div>
-      
-              </div>
-            </section>
+      </a>
+      <a class="content content-tab2">tab2-content</a>
       <a class="content content-tab3">tab3-content</a>
       <a class="content content-tab4">tab4-content</a>
       <a class="content content-tab5">tab5-content</a>
@@ -144,7 +112,7 @@
   </div>
   <!-- end container -->
   <footer class="footer mt-auto py-3">
-    <div class="container text-center">
+    <div class="container">
       <span class="text-muted">All right reserved &copy; copyright 2019</span>
     </div>
   </footer>
