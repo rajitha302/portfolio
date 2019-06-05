@@ -30,14 +30,13 @@
 /* line 15, assests/scss/_tabs.scss */
 .tab-active {
   color: #196aff;
-  font-weight: bolder;
   font-size: 18px; }
 
-/* line 21, assests/scss/_tabs.scss */
+/* line 20, assests/scss/_tabs.scss */
 .content {
   display: none; }
 
-/* line 25, assests/scss/_tabs.scss */
+/* line 24, assests/scss/_tabs.scss */
 .content-active {
   display: block; }
 
